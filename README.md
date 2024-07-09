@@ -13,8 +13,8 @@
   - [Computer Network / Security Overview!](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [and more....](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
 - <b><h3>Penetration Testing</h3></b>
-- [Linux Command, Administrative (AAA)](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
-  - [Footprintin and Reconnaissance](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
+  - [Linux Command, Administrative (AAA)](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
+  - [Footprinting and Reconnaissance](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [Hacker Test, Enumerating SMB](https://github.com/abfembest/cybersecurity/assets/59797153/52fde834-8e7c-48cc-b6eb-eea575c5f0e1)
   - [Social Engineering Attacks with Social Engineering Toolkit](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [Client Side Exploitations using BeEF application](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
@@ -27,7 +27,7 @@
   - [Pentest XSS, SQL Ingestion, URL Encoding](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [Web Pentesting with Nikto & OWSP Zap](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [Creating and Installing SSL Certificates](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
-  - [Wireless, Wireshark, NMAP, TCPDUMP, Burpsuites and lot more](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
+  - [Wireless, Wireshark, NMAP, TCPDUMP, Burpsuites, and lot more](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
 
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
