@@ -1,6 +1,6 @@
 # Cybersecurity Projects
 - **Tools:** LINUX, Kali, Python, NMAP, SIEMs, Burp Suite, Metasploit, Nessus, Wireshark, John the Ripper, etc.
- ### Implementing IP routing on Network Router.
+ ### 1. Implementing IP routing on Network Router.
  - **Topology**
  <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
  
@@ -28,10 +28,45 @@ To onfigured IP addressing, interface settings, and static routing on network de
 - **CLI Commands** (Cisco IOS)  
 - **IP Routing** (Static Routing Configuration)  
   <hr>
-  - (https://github.com/abfembest/cyberprojects/blob/257ce03b6284950fb64839b380685e00dd9147cf/README.md)
-  - [Modern Network Security Threats](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
-  - [How to Secure Network Devices](https://github.com/abfembest/cybersecurity/assets/59797153/52fde834-8e7c-48cc-b6eb-eea575c5f0e1)
-  - [Implementing Secure Authentication, Authorisation, and Accounting](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
+
+
+ ### 3. IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.
+ - **TOPOLOGY**
+ <img src="https://github.com/user-attachments/assets/03c92f4c-0db3-44f6-948f-2bf264933d0b" width="70%">
+ 
+![image](https://github.com/user-attachments/assets/c28225b0-a267-433f-a5ed-916a6de449a9)
+
+### 🔹 Task  
+To configure secure access control and enforce password complexity to enhance edge router security.
+
+
+<img src="https://github.com/user-attachments/assets/c28225b0-a267-433f-a5ed-916a6de449a9" width="70%">
+
+### 🔧 Action  
+ - Enforced strong passwords with user privilege levels
+ - Enabled password encryption to prevent plain-text exposure
+ - Implemented login security to block failed attempts
+ - Secured remote access using SSH and disabled Telnet.
+
+### 📈 Results  
+✅ Improved access security with AAA authentication and privilege control.
+✅ Prevented unauthorized access through password encryption and complexity enforcement.
+✅ Secured remote management by replacing Telnet with SSH.
+
+### 🛠 Tools Used  
+- **Putty, Console cable, Cisco router, switches** 
+- **CLI Commands** (Cisco IOS)  
+- **Cisco IOS CLI** (AAA Configuration)
+- **Wireshark** (Packet Capture & Analysis) 
+  <hr>
+
+
+
+![image](https://github.com/user-attachments/assets/03c92f4c-0db3-44f6-948f-2bf264933d0b)
+
+
+
+ ###-Implementing IP routing on Network Router.
   - [Firewall Technology Implementations!](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [IDS/IPS Implementations](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [LAN Security](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
