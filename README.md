@@ -1,15 +1,33 @@
 # Cybersecurity Projects
-- Tools: LINUX, Kali, Python, NMAP, SIEMs, burp suite, Metasploit, Nessus, Wireshark, John the ripper, etc.
- ### Impplementing IP routing on Network Router.
- ## Topology
- ![image](https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6)
- # Addressing Table.
- ![image](https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb)
+- **Tools:** LINUX, Kali, Python, NMAP, SIEMs, Burp Suite, Metasploit, Nessus, Wireshark, John the Ripper, etc.
+ ### Implementing IP routing on Network Router.
+ - **Topology**
+ <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
  
- The IP was configured on all the devices and the router with interface s0/0/0 for basic device settings, setting the IP address to 10.1.1.2 255.255.255.252, clock rate to 128000, and interface activation with R3(config-if)#no shutdown command.
- For static route configurations, a recursive static route was set on R1 to 192.168.1.0/24 via 10.1.1.2, and a directly connected static route was set on R3 to 192.168.0.0/24 via s0/0/0. Static routes were removed from R1 using no ip route.
- Finally, a default route was configured on R1 to 0.0.0.0/0 via s0/0/1.
-  
+ - **Addressing Table**
+ <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="500"> </p>
+ 
+### 🔹 Task  
+To onfigured IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
+
+### 🔧 Action  
+- I assigned **IP 10.1.1.2/30** to the router's **s0/0/0** interface and set **clock rate to 128000**.  
+- I activated the interface with `no shutdown`.  
+- I configured **recursive static routing** on R1 to **192.168.1.0/24** via **10.1.1.2**.  
+- I set a **directly connected static route** on R3 to **192.168.0.0/24** via **s0/0/0**.  
+- I removed static routes from R1 using `no ip route`.  
+- I added a **default route on R1** to **0.0.0.0/0** via **s0/0/1**.
+
+### 📈 Results  
+✅ Established successful communication between networks.  
+✅ Ensured efficient static route configuration and failover.  
+✅ Simplified routing table with a default route for external traffic.
+
+### 🛠 Tools Used  
+- **Putty, Console cable, Cisco router, switches** 
+- **CLI Commands** (Cisco IOS)  
+- **IP Routing** (Static Routing Configuration)  
+  <hr>
   - (https://github.com/abfembest/cyberprojects/blob/257ce03b6284950fb64839b380685e00dd9147cf/README.md)
   - [Modern Network Security Threats](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [How to Secure Network Devices](https://github.com/abfembest/cybersecurity/assets/59797153/52fde834-8e7c-48cc-b6eb-eea575c5f0e1)
