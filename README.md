@@ -1,6 +1,12 @@
-# Cybersecurity Projects
-- **Tools:** LINUX, Kali, Python, NMAP, SIEMs, Burp Suite, Metasploit, Nessus, Wireshark, John the Ripper, etc.
- ### 1. Implementing IP routing on Network Router.
+ # Cybersecurity Projects
+### 🛠 Tools Used  
+- **Putty, Console cable, Cisco router, switches** 
+- **CLI Commands** (Cisco IOS)  
+- **Cisco IOS CLI** (AAA Configuration)
+- **Wireshark** (Packet Capture & Analysis) 
+- **LINUX, Kali, Python, NMAP, SIEMs, Burp Suite, Metasploit, Nessus, Wireshark, John the Ripper, etc.**
+  
+ ### 1. IMPLEMENTING IP ROUTING ON NETWORK ROUTER.
  - **Topology**
  <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
  
@@ -8,7 +14,7 @@
  <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="500"> </p>
  
 ### 🔹 Task  
-To onfigured IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
+To configure IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
 
 ### 🔧 Action  
 - I assigned **IP 10.1.1.2/30** to the router's **s0/0/0** interface and set **clock rate to 128000**.  
@@ -19,14 +25,9 @@ To onfigured IP addressing, interface settings, and static routing on network de
 - I added a **default route on R1** to **0.0.0.0/0** via **s0/0/1**.
 
 ### 📈 Results  
-✅ Established successful communication between networks.  
-✅ Ensured efficient static route configuration and failover.  
-✅ Simplified routing table with a default route for external traffic.
-
-### 🛠 Tools Used  
-- **Putty, Console cable, Cisco router, switches** 
-- **CLI Commands** (Cisco IOS)  
-- **IP Routing** (Static Routing Configuration)  
+✅ I established successful communication between networks.  
+✅ I ensured efficient static route configuration and failover.  
+✅ I simplified routing table with a default route for external traffic.
   <hr>
 
 
@@ -43,27 +44,39 @@ To configure secure access control and enforce password complexity to enhance ed
 <img src="https://github.com/user-attachments/assets/c28225b0-a267-433f-a5ed-916a6de449a9" width="70%">
 
 ### 🔧 Action  
- - Enforced strong passwords with user privilege levels
- - Enabled password encryption to prevent plain-text exposure
- - Implemented login security to block failed attempts
- - Secured remote access using SSH and disabled Telnet.
+ - I enforced strong passwords with user privilege levels
+ - I enabled password encryption to prevent plain-text exposure
+ - I implemented login security to block failed attempts
 
 ### 📈 Results  
-✅ Improved access security with AAA authentication and privilege control.
-✅ Prevented unauthorized access through password encryption and complexity enforcement.
-✅ Secured remote management by replacing Telnet with SSH.
-
-### 🛠 Tools Used  
-- **Putty, Console cable, Cisco router, switches** 
-- **CLI Commands** (Cisco IOS)  
-- **Cisco IOS CLI** (AAA Configuration)
-- **Wireshark** (Packet Capture & Analysis) 
+✅ I improved access security with AAA authentication and privilege control.
+✅ I prevented unauthorized access through password encryption and complexity enforcement.
+✅ I secured remote management by replacing Telnet with SSH.
   <hr>
 
 
+### 4. IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.
+ - **TOPOLOGY**
 
-![image](https://github.com/user-attachments/assets/03c92f4c-0db3-44f6-948f-2bf264933d0b)
+ <img src="https://github.com/user-attachments/assets/b8f97cc1-6ce6-4916-999f-2a6bd897c71d" width="70%">
+	
+## 📌 Task  
+The task was to enhance network security by **implementing Access Control Lists (ACLs)** to regulate traffic flow and restrict unauthorized access.  
 
+## 🔧 Action  
+- **I configured standard and extended ACLs** to filter traffic based on IP, protocols, and ports.  
+- **I applied ACL rules** to router interfaces to permit or deny specific traffic.  
+- **I logged and monitored traffic patterns** to refine security policies.
+
+ <img src="https://github.com/user-attachments/assets/1b39f5aa-fe72-48de-a18b-bbaec66067c8" width="70%">
+
+## 📈 Result  
+✅ **I Restricted unauthorized access**, reducing security risks.  
+✅ **I improved network performance** by filtering unnecessary traffic.  
+✅ **I enhanced monitoring** with logged access attempts for auditing. 
+
+
+  <hr>
 
 
  ###-Implementing IP routing on Network Router.
