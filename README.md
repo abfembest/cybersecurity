@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> <H1>Some of my Cybersecurity Projects</H1></div>
+<div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> <H2>Some of my Cybersecurity Projects</H2></div>
 <div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">
 
 ## 🚀 Tools & Technologies Capabilities 
@@ -21,7 +21,7 @@
 </div>
 
   
- <h1>IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</h1>
+ <H2>IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</H2>
  - **Topology**
  <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
  
@@ -46,7 +46,7 @@ Configure IP addressing, interface settings, and static routing on network devic
   <hr>
 
 
- <h1>IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.</h1>
+ <H2>IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.</H2>
  - **TOPOLOGY**
  <img src="https://github.com/user-attachments/assets/03c92f4c-0db3-44f6-948f-2bf264933d0b" width="70%">
  
@@ -70,7 +70,7 @@ To configure secure access control and enforce password complexity to enhance ed
   <hr>
 
 
-<h1>IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.</h1>
+<H2>IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.</H2>
  - **TOPOLOGY**
 
  <img src="https://github.com/user-attachments/assets/b8f97cc1-6ce6-4916-999f-2a6bd897c71d" width="70%">
@@ -93,7 +93,7 @@ The task was to enhance network security by **implementing Access Control Lists 
 
   <hr>
   
-  <H1> -Implementing Zone-Based Policy Firewall (ZBF) Security</H1>  
+  <H2> -Implementing Zone-Based Policy Firewall (ZBF) Security</H2>  
 
 ## 📌 Task  
 Enhance network security by **configuring a Zone-Based Policy Firewall (ZBF)** to control traffic between security zones and protect critical resources.  
@@ -111,7 +111,7 @@ Enhance network security by **configuring a Zone-Based Policy Firewall (ZBF)** t
 ✅ **Blocked unauthorized access**, ensuring only permitted traffic flows between zones.  
 ✅ **Enhanced visibility and control**, optimizing firewall policies for better threat mitigation.  
 
-<h1> - IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</h1>
+<H2> - IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</H2>
  - **Topology**
  <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
  
