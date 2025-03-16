@@ -1,10 +1,25 @@
- # Cybersecurity Projects
-### 🛠 Tools Used  
-- **Putty, Console cable, Cisco router, switches** 
-- **CLI Commands** (Cisco IOS)  
-- **Cisco IOS CLI** (AAA Configuration)
-- **Wireshark** (Packet Capture & Analysis) 
-- **LINUX, Kali, Python, NMAP, SIEMs, Burp Suite, Metasploit, Nessus, Wireshark, John the Ripper, etc.**
+<div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> <H1>Some of my Cybersecurity Projects</H1></div>
+<div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">
+
+## 🚀 Tools & Technologies Capabilities 
+
+### 🖥️ **Networking & Security Tools**  
+🛜 **Cisco Devices:** Routers, Switches, Console Cable  
+📟 **CLI Tools:** Cisco IOS, Putty  
+🦈 **Traffic Analysis:** Wireshark, Nmap  
+
+### 🛡️ **Cybersecurity & Penetration Testing**  
+🐧 **Linux Distros:** Kali Linux, Ubuntu  
+🔍 **Vulnerability Scanners:** Nessus, OpenVAS  
+🕵️‍♂️ **Penetration Testing:** Metasploit, Burp Suite, John the Ripper  
+🛠 **SIEM & Monitoring:** Splunk, ELK Stack  
+
+### 🏗️ **Programming & Scripting**  
+🐍 **Languages:** Python, Bash  
+💻 **Automation & Scripting:** PowerShell, Ansible  
+
+</div>
+
   
  ### 1. IMPLEMENTING IP ROUTING ON NETWORK ROUTER.
  - **Topology**
