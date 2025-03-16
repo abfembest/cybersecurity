@@ -27,7 +27,7 @@ To configure IP addressing, interface settings, and static routing on network de
 ### 📈 Results  
 ✅ I established successful communication between networks.  
 ✅ I ensured efficient static route configuration and failover.  
-✅ I simplified routing table with a default route for external traffic.
+✅ I simplified the routing table with a default route for external traffic.
   <hr>
 
 
@@ -59,6 +59,7 @@ To configure secure access control and enforce password complexity to enhance ed
  - **TOPOLOGY**
 
  <img src="https://github.com/user-attachments/assets/b8f97cc1-6ce6-4916-999f-2a6bd897c71d" width="70%">
+
 	
 ## 📌 Task  
 The task was to enhance network security by **implementing Access Control Lists (ACLs)** to regulate traffic flow and restrict unauthorized access.  
@@ -67,7 +68,7 @@ The task was to enhance network security by **implementing Access Control Lists 
 - **I configured standard and extended ACLs** to filter traffic based on IP, protocols, and ports.  
 - **I applied ACL rules** to router interfaces to permit or deny specific traffic.  
 - **I logged and monitored traffic patterns** to refine security policies.
-
+<img src="https://github.com/user-attachments/assets/f19380a2-3f79-4ef0-88d5-d400f37932d0" width="70%">
  <img src="https://github.com/user-attachments/assets/1b39f5aa-fe72-48de-a18b-bbaec66067c8" width="70%">
 
 ## 📈 Result  
@@ -75,8 +76,50 @@ The task was to enhance network security by **implementing Access Control Lists 
 ✅ **I improved network performance** by filtering unnecessary traffic.  
 ✅ **I enhanced monitoring** with logged access attempts for auditing. 
 
-
   <hr>
+  
+  <H1> -Implementing Zone-Based Policy Firewall (ZBF) Security</H1>  
+
+## 📌 Task  
+Enhance network security by **configuring a Zone-Based Policy Firewall (ZBF)** to control traffic between security zones and protect critical resources.  
+
+## 🔧 Action. 
+- **I created security zones** (e.g., Inside, Outside, DMZ) and assigned interfaces accordingly.  
+- **I Defined class maps** to identify traffic types and created policy maps to enforce security rules.  
+- **I applied zone-pair policies** to regulate traffic flow between security zones.
+  
+<img src ="https://github.com/user-attachments/assets/b37af828-fd00-440e-8580-b8da3c29c421" width = "70%">
+
+
+## 📈 Result  
+✅ **Segmented network traffic**, reducing the attack surface and improving security.  
+✅ **Blocked unauthorized access**, ensuring only permitted traffic flows between zones.  
+✅ **Enhanced visibility and control**, optimizing firewall policies for better threat mitigation.  
+
+<h1> - IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</h1>
+ - **Topology**
+ <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
+ 
+ - **Addressing Table**
+ <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="500"> </p>
+ 
+### 🔹 Task  
+Configure IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
+
+### 🔧 Action  
+- I assigned **IP 10.1.1.2/30** to the router's **s0/0/0** interface and set **clock rate to 128000**.  
+- I activated the interface with `no shutdown`.  
+- I configured **recursive static routing** on R1 to **192.168.1.0/24** via **10.1.1.2**.  
+- I set a **directly connected static route** on R3 to **192.168.0.0/24** via **s0/0/0**.  
+- I removed static routes from R1 using `no ip route`.  
+- I added a **default route on R1** to **0.0.0.0/0** via **s0/0/1**.
+
+### 📈 Results  
+✅ I established successful communication between networks.  
+✅ I ensured efficient static route configuration and failover.  
+✅ I simplified the routing table with a default route for external traffic.
+  <hr>
+
 
 
  ###-Implementing IP routing on Network Router.
