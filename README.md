@@ -111,32 +111,7 @@ Enhance network security by **configuring a Zone-Based Policy Firewall (ZBF)** t
 ✅ **Segmented network traffic**, reducing the attack surface and improving security.  
 ✅ **Blocked unauthorized access**, ensuring only permitted traffic flows between zones.  
 ✅ **Enhanced visibility and control**, optimizing firewall policies for better threat mitigation.  
-
-<H2> - IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</H2>
- - **Topology**
- <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
- 
- - **Addressing Table**
- <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="500"> </p>
- 
-### 🔹 Task  
-Configure IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
-
-### 🔧 Action  
-- I assigned **IP 10.1.1.2/30** to the router's **s0/0/0** interface and set **clock rate to 128000**.  
-- I activated the interface with `no shutdown`.  
-- I configured **recursive static routing** on R1 to **192.168.1.0/24** via **10.1.1.2**.  
-- I set a **directly connected static route** on R3 to **192.168.0.0/24** via **s0/0/0**.  
-- I removed static routes from R1 using `no ip route`.  
-- I added a **default route on R1** to **0.0.0.0/0** via **s0/0/1**.
-
-### 📈 Results  
-✅ I established successful communication between networks.  
-✅ I ensured efficient static route configuration and failover.  
-✅ I simplified the routing table with a default route for external traffic.
-  <hr>
-  
-
+<hr>
 <H2>🛡️ Implementing Intrusion Detection & Prevention (IDS/IPS) Security  </H2>
 ## 📌 Task  
 Strengthen network security by **deploying Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)** to monitor, detect, and mitigate threats in real-time.  
