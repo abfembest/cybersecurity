@@ -21,7 +21,7 @@
 </div>
 
   
- ### 1. IMPLEMENTING IP ROUTING ON NETWORK ROUTER.
+ <h1>IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</h1>
  - **Topology**
  <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
  
@@ -29,7 +29,7 @@
  <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="500"> </p>
  
 ### 🔹 Task  
-To configure IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
+Configure IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
 
 ### 🔧 Action  
 - I assigned **IP 10.1.1.2/30** to the router's **s0/0/0** interface and set **clock rate to 128000**.  
@@ -46,7 +46,7 @@ To configure IP addressing, interface settings, and static routing on network de
   <hr>
 
 
- ### 3. IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.
+ <h1>IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.</h1>
  - **TOPOLOGY**
  <img src="https://github.com/user-attachments/assets/03c92f4c-0db3-44f6-948f-2bf264933d0b" width="70%">
  
@@ -70,7 +70,7 @@ To configure secure access control and enforce password complexity to enhance ed
   <hr>
 
 
-### 4. IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.
+<h1>IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.</h1>
  - **TOPOLOGY**
 
  <img src="https://github.com/user-attachments/assets/b8f97cc1-6ce6-4916-999f-2a6bd897c71d" width="70%">
@@ -134,6 +134,25 @@ Configure IP addressing, interface settings, and static routing on network devic
 ✅ I ensured efficient static route configuration and failover.  
 ✅ I simplified the routing table with a default route for external traffic.
   <hr>
+  
+
+<H1>🛡️ Implementing Intrusion Detection & Prevention (IDS/IPS) Security  </H1>
+## 📌 Task  
+Strengthen network security by **deploying Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)** to monitor, detect, and mitigate threats in real-time.  
+
+<img src = "https://github.com/user-attachments/assets/c9d028e8-d9ea-4c6d-8135-3890d1f16dba" width = "80%">
+
+## 🔧 Action  
+- **I configured IDS tools** to analyze network traffic for suspicious activity.  
+- **I deployed IPS solutions** to actively block threats.  
+- **I set up logging and alerts** to detect and respond to anomalies efficiently.
+
+
+<img src = "https://github.com/user-attachments/assets/10099ae1-c8ce-4735-a1b5-eddaa1c0a71d" width = "80%">
+## 📈 Result  
+✅ **Enhanced threat detection**, identifying and mitigating cyber threats in real-time.  
+✅ **Reduced security breaches** by proactively blocking malicious traffic.  
+✅ **Improved incident response** with automated alerts and forensic logging.  
 
 
 
