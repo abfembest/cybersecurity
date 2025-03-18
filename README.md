@@ -1,5 +1,5 @@
-<div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> <H2>Abraham's Cybersecurity Portfolio</H2></div>
-<div align="center" style="background-color:#0000FF"; color:#ffffff; padding:20px; border-radius:10px;"> <H2>abfembest@gmail.com</H2></div>
+<div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> <H2>Abraham's Cybersecurity Portfolio</H2><p><H4>abfembest@gmail.com</H4></p>
+</div>
 <div align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">
 
 ## 🚀 Tools & Technologies Capabilities 
@@ -21,13 +21,12 @@
 
 </div>
 
-  
- <H2>IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</H2>
- - **Topology**
- <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="500">
+ <H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</H2>
+<h5>Topology</h5>
+ <img src="https://github.com/user-attachments/assets/23b97df1-c44b-4201-96e9-24195638a2c6" width="70%">
  
  - **Addressing Table**
- <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="500"> </p>
+ <p><img src="https://github.com/user-attachments/assets/426d7a35-8a2f-4f28-b65f-e270ba82dcdb" width="70%"> </p>
  
 ### 🔹 Task  
 Configure IP addressing, interface settings, and static routing on network devices to establish connectivity between subnets.
@@ -44,11 +43,11 @@ Configure IP addressing, interface settings, and static routing on network devic
 ✅ I established successful communication between networks.  
 ✅ I ensured efficient static route configuration and failover.  
 ✅ I simplified the routing table with a default route for external traffic.
-  <hr>
+<hr>
 
 
- <H2>IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.</H2>
- - **TOPOLOGY**
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">IMPLEMENTING ACCESS SECURITY AND PASSWORD COMPLEXITY ON EDGE ROUTER.</H2>
+ <h5>Topology</h5>
  <img src="https://github.com/user-attachments/assets/03c92f4c-0db3-44f6-948f-2bf264933d0b" width="70%">
  
 ![image](https://github.com/user-attachments/assets/c28225b0-a267-433f-a5ed-916a6de449a9)
@@ -71,8 +70,8 @@ To configure secure access control and enforce password complexity to enhance ed
   <hr>
 
 
-<H2>IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.</H2>
- - **TOPOLOGY**
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">IMPLEMENTING ACCESS CONTROL LISTs (ACLs)SECURITY.</H2>
+<h5>Topology</h5>
 
  <img src="https://github.com/user-attachments/assets/b8f97cc1-6ce6-4916-999f-2a6bd897c71d" width="70%">
 
@@ -112,6 +111,10 @@ Enhance network security by **configuring a Zone-Based Policy Firewall (ZBF)** t
 ✅ **Blocked unauthorized access**, ensuring only permitted traffic flows between zones.  
 ✅ **Enhanced visibility and control**, optimizing firewall policies for better threat mitigation.  
 <hr>
+
+
+
+
 <H2>🛡️ Implementing Intrusion Detection & Prevention (IDS/IPS) Security  </H2>
 ## 📌 Task  
 Strengthen network security by **deploying Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)** to monitor, detect, and mitigate threats in real-time.  
@@ -125,6 +128,7 @@ Strengthen network security by **deploying Intrusion Detection Systems (IDS) and
 
 
 <img src = "https://github.com/user-attachments/assets/10099ae1-c8ce-4735-a1b5-eddaa1c0a71d" width = "80%">
+
 ## 📈 Result  
 ✅ **Enhanced threat detection**, identifying and mitigating cyber threats in real-time.  
 ✅ **Reduced security breaches** by proactively blocking malicious traffic.  
