@@ -202,6 +202,127 @@ Enhance **network security and privacy** by implementing **VPN (Virtual Private 
 
 
 
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> 🛡️ Penetration Testing: Network Vulnerability Scanning</H2>
+  
+
+## 📌 Task  
+Identify and assess security weaknesses in a network using **Kali Linux, Nmap, SMB Search, and Banner Grabbing** techniques.  
+
+## 🔧 Action  
+- **Conducted network scans** using Nmap to detect open ports and services.  
+- **Performed SMB enumeration** to identify vulnerable shares and misconfigurations.  
+- **Executed banner grabbing** to gather system and service details for threat analysis.
+
+<h5>Implementation</h5>
+
+<img src="https://github.com/user-attachments/assets/68fd497b-3621-4106-8d77-bdb5c86791d0" width="80%">
+<P><h3 align ="center">Network scanning with NMAP</h3></P>
+
+<img src="https://github.com/user-attachments/assets/5e0b2da0-eca1-4120-b16e-5a0f394f8346" width="80%">
+<P><h3 align ="center">Wireshark report interface</h3></P>
+
+<img src="https://github.com/user-attachments/assets/3dc1a5df-2929-484b-8e72-2a1bbf520b85" width="80%">
+
+<P><h3 align ="center">SMB Search</h3></P>
+
+<img src="https://github.com/user-attachments/assets/585fb404-d452-48c6-8241-dbf91d156251" width="80%">
+
+<P><h3 align ="center">Discovered exploitable services</h3></P>
+
+<img src="https://github.com/user-attachments/assets/3ed7b5ba-fc6f-43b0-a6f8-1ee167cce147" width="80%">
+
+<P><h3 align ="center">Banner grabbing vulnerability</h3></P>
+
+
+## 📈 Result  
+✅ **Identified security vulnerabilities**, reducing the attack surface.  
+✅ **Strengthened network defenses** by addressing misconfigurations.  
+✅ **Enhanced cybersecurity posture** through proactive threat detection.  
+
+
+# 🛡️ Penetration Testing: Web Application Security  
+
+## 📌 Task  
+I tested web applications for security vulnerabilities such as **Broken Authentication, XSS, SQL Injection, Username Enumeration, Directory Traversal, HTTP Violations, Unfiltered Input, URL Attacks, and Information Exposure**.  
+
+## 🔧 Action  
+- **Performed vulnerability assessments** using tools like Burp Suite, OWASP ZAP, and SQLmap.  
+- **Executed penetration tests** to exploit weaknesses in authentication, input validation, and access controls.  
+- **Analyzed application responses** to identify security gaps and potential data leaks.
+![image](https://github.com/user-attachments/assets/f75878d1-cf2a-446f-8f03-8efa9564e176)
+
+<img src="https://github.com/user-attachments/assets/f75878d1-cf2a-446f-8f03-8efa9564e176" width="80%">
+
+<P><h3 align ="center">Unfiltered input field (e-mail)</h3></P>
+
+<img src="https://github.com/user-attachments/assets/ae6a9828-4366-499b-a9b6-be94fd38fb7f" width="80%">
+
+<P><h3 align ="center">URL Attack via Password reset link</h3></P>
+
+<img src="https://github.com/user-attachments/assets/0f18e7f7-91ac-47ad-a686-133f67c2d966" width="80%">
+
+<P><h3 align ="center">Hacking Databases</h3></P>
+
+<img src="https://github.com/user-attachments/assets/a6f362d1-1a9d-45f0-85a3-ac4869864a66" width="80%">
+
+<P><h3 align ="center">Creating tables in DB</h3></P>
+
+<img src="https://github.com/user-attachments/assets/24e99220-856a-41b3-a147-62225747c632" width="80%">
+
+<P><h3 align ="center">Fetching all records with SQL injection</h3></P>
+
+<img src="https://github.com/user-attachments/assets/37e1816d-df65-42f5-bc9e-dc41bb3241fc" width="80%">
+
+<P><h3 align ="center">Password hacked table</h3></P>
+
+## 📈 Result  
+✅ **Detected and mitigated critical vulnerabilities**, reducing security risks.  
+✅ **Enhanced application security** by strengthening authentication and input validation.  
+✅ **Improved compliance** with security best practices and industry standards.  
+
+
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> 🛡️ Penetration Testing: Documentation and reporting</H2>
+
+![image](https://github.com/user-attachments/assets/3fc51a05-6152-4f41-9bf5-764cac696e19)
+
+![image](https://github.com/user-attachments/assets/2842519e-cf3f-41cd-9016-3b11863e3be5)
+
+
+![image](https://github.com/user-attachments/assets/b1fce99e-40d7-4144-8ca6-2a7f75c94ede)
+
+
+![image](https://github.com/user-attachments/assets/24790ea9-876c-454a-bbe5-bfc12880a971)
+
+
+![image](https://github.com/user-attachments/assets/90455b45-26fd-4497-9464-7776f8b559b2)
+
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">🛡️Structural Cabling and Networkin</H2>
+
+<P><h3 align ="center"> ICT Deployment Projects at London</h3></P>
+<img src="https://github.com/user-attachments/assets/b585079c-8a8a-47fa-91c1-9b9eca276cb0" width="80%">
+
+<img src="https://github.com/user-attachments/assets/7b89cc1c-d75a-4f58-9600-299aafce186e" width="80%">
+
+<img src="https://github.com/user-attachments/assets/bc1bb29a-08c5-4988-853b-41ad64bd8362" width="80%">
+
+
+<img src="https://github.com/user-attachments/assets/bc1bb29a-08c5-4988-853b-41ad64bd8362" width="80%">
+
+<P><h3 align ="center"> ROUTER CONFIGURATIONAND DEPLOYMENT</h3></P>
+<img src="https://github.com/user-attachments/assets/9506ef39-d7b1-4e37-b7d6-16bc75d94fc0" width="80%">
+
+
+![20241116_120341](https://github.com/user-attachments/assets/8388de6e-a594-4824-884a-21ff14f8dee8)
+
+
+
+<img src="https://github.com/user-attachments/assets/ba06b22f-294d-4c61-b0f6-4f7d9d5f6b2f" width="80%">
+
+
+
+
+
+
  ###-Implementing IP routing on Network Router.
   - [Firewall Technology Implementations!](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [IDS/IPS Implementations](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
