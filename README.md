@@ -321,8 +321,6 @@ I tested web applications for security vulnerabilities such as **Broken Authenti
 <P><h3 align ="center"> ATMs (Cash machines) Maintenance and Insallations </h3></P>
 <img src="https://github.com/user-attachments/assets/660b6fcd-4d8c-4f64-9eed-e799fa086747" width="80%">
 
-![20240229_141133](https://github.com/user-attachments/assets/cb8dd7b7-9a91-45a4-9776-50cf19675650)
-
 <P><h3 align ="center"> Delivering ICT and Cybersecurity trainnings in Cambridge </h3></P>
 <img src="https://github.com/user-attachments/assets/cb8dd7b7-9a91-45a4-9776-50cf19675650" width="80%
 
