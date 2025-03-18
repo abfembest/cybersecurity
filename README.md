@@ -289,12 +289,13 @@ I tested web applications for security vulnerabilities such as **Broken Authenti
 
 <img src="https://github.com/user-attachments/assets/b1fce99e-40d7-4144-8ca6-2a7f75c94ede" width="80%">
 
-<img src="https://github.com/user-attachments/assets/assets/24790ea9-876c-454a-bbe5-bfc12880a971" width="80%">
+<img src="https://github.com/user-attachments/assets/24790ea9-876c-454a-bbe5-bfc12880a971" width="80%">
 
-<img src="https://github.com/user-attachments/assets/assets/assets/90455b45-26fd-4497-9464-7776f8b559b2" width="80%">
+<img src="https://github.com/user-attachments/assets/90455b45-26fd-4497-9464-7776f8b559b2" width="80%">
 
+<img src="https://github.com/user-attachments/assets/d2620d84-27de-4d02-9e79-f0abb4d30774" width="80%">
 
-<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">🛡️Structural Cabling and Networkin</H2>
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">🛡️NETWORKING, CABLING, AND INSTALLATIONS</H2>
 
 <P><h3 align ="center"> ICT Deployment Projects at London</h3></P>
 <img src="https://github.com/user-attachments/assets/b585079c-8a8a-47fa-91c1-9b9eca276cb0" width="80%">
@@ -306,15 +307,25 @@ I tested web applications for security vulnerabilities such as **Broken Authenti
 
 <img src="https://github.com/user-attachments/assets/bc1bb29a-08c5-4988-853b-41ad64bd8362" width="80%">
 
-<P><h3 align ="center"> ROUTER CONFIGURATIONAND DEPLOYMENT</h3></P>
+<P><h3 align ="center"> ROUTER CONFIGURATION AND DEPLOYMENT FOR CORPORATE ORGANISATION</h3></P>
 <img src="https://github.com/user-attachments/assets/9506ef39-d7b1-4e37-b7d6-16bc75d94fc0" width="80%">
 
-
-![20241116_120341](https://github.com/user-attachments/assets/8388de6e-a594-4824-884a-21ff14f8dee8)
-
-
-
+<P><h3 align ="center"> LAN STRUCTURAL CABLING </h3></P>
 <img src="https://github.com/user-attachments/assets/ba06b22f-294d-4c61-b0f6-4f7d9d5f6b2f" width="80%">
+
+<img src="https://github.com/user-attachments/assets/5777a790-3940-4558-a0f2-71fe27a62be8" width="80%">
+
+<P><h3 align ="center"> MAST INSTALLATION AND MOUNTING OF RADIO DEVICES (POINT-TO- MULTIPOINT) </h3></P>
+<img src="https://github.com/user-attachments/assets/ed730ac2-d135-4362-bcfe-76f270bd2439" width="80%">
+
+<P><h3 align ="center"> ATMs (Cash machines) Maintenance and Insallations </h3></P>
+<img src="https://github.com/user-attachments/assets/660b6fcd-4d8c-4f64-9eed-e799fa086747" width="80%">
+
+
+<P><h3 align ="center"> ICT and Cybersecurity trainnings for corporate staff members </h3></P>
+<img src="https://github.com/user-attachments/assets/244b54be-65ef-4a36-8e10-0249e4af4a31" width="80%">
+
+
 
 
 
