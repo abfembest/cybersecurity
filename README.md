@@ -136,6 +136,72 @@ Strengthen network security by **deploying Intrusion Detection Systems (IDS) and
 
 
 
+ <H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">Securing the Local Area Network.</H2>
+<h5>Topology</h5>
+ <img src="https://github.com/user-attachments/assets/f791b202-1d86-444b-ace8-c994ee7c4833" width="70%">
+
+
+
+
+## 📌 Task  
+To prevent unauthorized access and mitigate security risks local area network 
+## 🔧 Action  
+- **I configured port security** on switch interfaces to allow only specific MAC addresses.  
+- **I set violation modes** to protect, restrict, or shut down ports upon unauthorized access.  
+- **I Monitored and logged security violations** for auditing and incident response.
+
+<h4>Implementatation</h4>
+ <p><img src="https://github.com/user-attachments/assets/e4f5369f-8404-4409-b0f7-53d2fc02cf17" width="70%"></p>
+
+
+## 📈 Result  
+✅ **Prevented unauthorized device access**, enhancing LAN security.  
+✅ **Reduced risk of MAC address spoofing and network attacks**.  
+✅ **Improved network stability** by limiting dynamic address learning.  
+
+
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">Cryptographic Security Using Encryption & Hashing.</H2>
+
+
+## 📌 Task  
+To ensure **data confidentiality, integrity, and authenticity** 
+## 🔧 Action  
+- **I applied encryption algorithms** (AES, RSA) to secure data in transit and at rest.  
+- **I implemented hashing functions** (SHA-256, MD5) to verify data integrity.  
+- **I configured secure key management** to enhance cryptographic security.
+- 
+<h5>Implementation</h5>
+
+<img src="https://github.com/user-attachments/assets/ce38d474-cb4e-4094-addf-794f95c85194" width="70%">
+
+
+## 📈 Result  
+✅ **Ensured secure communication** by encrypting sensitive data.  
+✅ **Prevented unauthorized modifications** with hash-based integrity checks.  
+✅ **Strengthened authentication** by securing password storage.  
+
+
+<H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">🛡️ Securing Network Communication with VPN & IP Security</H2>
+
+![image](https://github.com/user-attachments/assets/b2103eba-f4fb-4960-ace2-3a88564093a6)
+
+# 🛡️ Securing Network Communication with VPN & IP Security  
+
+## 📌 Task  
+Enhance **network security and privacy** by implementing **VPN (Virtual Private Network) and IP security (IPsec)**.
+
+## 🔧 Action  
+- **Configured VPN tunnels** (IPsec, SSL) to encrypt remote access connections.  
+- **Implemented IPsec protocols** (AH, ESP) to secure IP communication.  
+- **Deployed authentication and encryption policies** to ensure secure data exchange.  
+
+## 📈 Result  
+✅ **Established secure remote access**, protecting sensitive data from interception.  
+✅ **Ensured end-to-end encryption**, preventing unauthorized access.  
+✅ **Enhanced network reliability and confidentiality** for secure communication.  
+
+
+
  ###-Implementing IP routing on Network Router.
   - [Firewall Technology Implementations!](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
   - [IDS/IPS Implementations](https://github.com/abfembest/cybersecurity/assets/59797153/e3156ad9-9a87-403a-b30a-6f83666bdba9)
