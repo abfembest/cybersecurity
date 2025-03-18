@@ -283,18 +283,16 @@ I tested web applications for security vulnerabilities such as **Broken Authenti
 
 <H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;"> 🛡️ Penetration Testing: Documentation and reporting</H2>
 
-![image](https://github.com/user-attachments/assets/3fc51a05-6152-4f41-9bf5-764cac696e19)
+<img src="https://github.com/user-attachments/assets/3fc51a05-6152-4f41-9bf5-764cac696e19" width="80%">
 
-![image](https://github.com/user-attachments/assets/2842519e-cf3f-41cd-9016-3b11863e3be5)
+<img src="https://github.com/user-attachments/assets/2842519e-cf3f-41cd-9016-3b11863e3be5" width="80%">
 
+<img src="https://github.com/user-attachments/assets/b1fce99e-40d7-4144-8ca6-2a7f75c94ede" width="80%">
 
-![image](https://github.com/user-attachments/assets/b1fce99e-40d7-4144-8ca6-2a7f75c94ede)
+<img src="https://github.com/user-attachments/assets/assets/24790ea9-876c-454a-bbe5-bfc12880a971" width="80%">
 
+<img src="https://github.com/user-attachments/assets/assets/assets/90455b45-26fd-4497-9464-7776f8b559b2" width="80%">
 
-![image](https://github.com/user-attachments/assets/24790ea9-876c-454a-bbe5-bfc12880a971)
-
-
-![image](https://github.com/user-attachments/assets/90455b45-26fd-4497-9464-7776f8b559b2)
 
 <H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">🛡️Structural Cabling and Networkin</H2>
 
