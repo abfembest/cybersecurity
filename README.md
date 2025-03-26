@@ -20,6 +20,38 @@
 💻 **Automation & Scripting:** PowerShell, Ansible  
 
 </div>
+# 🛡️ Extracting Cyber Threat Intelligence Using Machine Learning  
+
+## 📌 Task  
+Utilize **machine learning algorithms** to extract and analyze cyber threat intelligence from large datasets, identifying patterns and potential security threats. 
+<img src="https://github.com/user-attachments/assets/6beaca78-bb72-4282-a44f-fcc7f3296c8e" width="80%">
+<P><h3 align ="center">Design Model</h3></P>
+
+## 🔧 Action  
+- **Collected and preprocessed vast cybersecurity datasets** for feature extraction.  
+- **Applied supervised and unsupervised ML algorithms** (e.g., Decision Trees, Random Forest, Clustering) to detect anomalies.  
+- **Automated threat intelligence workflows**, improving detection speed and accuracy.
+<img src="https://github.com/user-attachments/assets/458062ee-10ab-4f59-9096-73a977f3c6b9" width="80%">
+<P><h3 align ="center">ML Model Implementation</h3></P>
+
+<img src="https://github.com/user-attachments/assets/90e15c46-946a-463a-9fec-56c3a1b331d0" width="80%">
+<P><h3 align ="center">Cyber Threat Datasets (125973 rows X 29 columns )</h3></P>
+
+<img src="https://github.com/user-attachments/assets/e281a1bd-b206-44ef-976d-75db6b2a24c0" width="80%">
+<P><h3 align ="center">Exploratory Analysis</h3></P>
+
+<img src="https://github.com/user-attachments/assets/f1c61598-5b80-4cef-85ab-aa4973e3c68f" width="80%">
+<P><h3 align ="center">Machine learning implementation with Python</h3></P>
+
+<img src="https://github.com/user-attachments/assets/aff36f2f-0ddc-4ea0-a3ed-e4269b22ab47" width="80%">
+<P><h3 align ="center">ML performance visualization</h3></P>
+
+## 📈 Result  
+✅ **Enhanced threat detection capabilities**, reducing incident response time.  
+✅ **Identified malicious patterns** to mitigate potential cyber attacks.  
+✅ **Improved cybersecurity posture** by leveraging data-driven intelligence.  
+
+
 
  <H2 align="center" style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">IMPLEMENTING IP ROUTING ON NETWORK ROUTER.</H2>
 <h5>Topology</h5>
@@ -100,7 +132,7 @@ Enhance network security by **configuring a Zone-Based Policy Firewall (ZBF)** t
 
 ## 🔧 Action. 
 - **I created security zones** (e.g., Inside, Outside, DMZ) and assigned interfaces accordingly.  
-- **I Defined class maps** to identify traffic types and created policy maps to enforce security rules.  
+- **I defined class maps** to identify traffic types and created policy maps to enforce security rules.  
 - **I applied zone-pair policies** to regulate traffic flow between security zones.
   
 <img src ="https://github.com/user-attachments/assets/b37af828-fd00-440e-8580-b8da3c29c421" width = "70%">
